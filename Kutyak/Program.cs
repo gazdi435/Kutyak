@@ -2,9 +2,15 @@
 {
     internal class Program
     {
+
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine(Beolvasas(""));
+        }
+
+        private static void Beolvasas(string eleresiUt)
+        {
+            
         }
     }
 }
